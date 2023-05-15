@@ -1,7 +1,7 @@
 <h1 align=center>TypeORM ✨</h1>
 
 ## 🎯 Goals
-<p>The main goal of this activity was to build a CRUD application based on a soccer league while.</p>
+<p>The main goal of this activity was to build a CRUD application based on a soccer league.</p>
 
 ## 🛠 Tech & Tools
 <p align=center>
